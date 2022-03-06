@@ -1,11 +1,19 @@
 {
   "name": "npm",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbaz86/Introduction-to-Node-Assignment.git"
+  },
   "author": "Arbaz Hussain",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Arbaz86/Introduction-to-Node-Assignment/issues"
+  },
+  "homepage": "https://github.com/Arbaz86/Introduction-to-Node-Assignment#readme"
 }
